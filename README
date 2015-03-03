@@ -1,0 +1,12 @@
+Use these source code files to supplement the textbook "Flexible
+Reliable Software, by Christensen" in classroom activities. These are
+simple, one file C++ source code to start-up discussion on various
+topics.
+
+1) Introducing the Strategy design pattern (Chapter 7). Variabllity.
+
+   greeter.cc
+   ----------
+   Extend the greeter class so that different greetings can be
+   produced (for example in French, German, Romanian, Hungarian,
+   etc...). 
