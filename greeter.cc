@@ -33,5 +33,10 @@ int main() {
 	john.addName("Sophie");
 	john.addName("Lilly");
 	john.greet();
+	// outputs
+	// Hello Mark!
+  // Hello Sophie!
+	// Hello Lilly!
+	return 0;
 }
 	
